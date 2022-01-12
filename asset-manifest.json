@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/car-customization/static/css/main.52c35a5c.css",
+    "main.js": "/car-customization/static/js/main.2c6c977e.js",
+    "static/media/carphoto.svg": "/car-customization/static/media/carphoto.891966fde9d924d6eab0a1cff42c306b.svg",
+    "index.html": "/car-customization/index.html",
+    "main.52c35a5c.css.map": "/car-customization/static/css/main.52c35a5c.css.map",
+    "main.2c6c977e.js.map": "/car-customization/static/js/main.2c6c977e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c35a5c.css",
+    "static/js/main.2c6c977e.js"
+  ]
+}

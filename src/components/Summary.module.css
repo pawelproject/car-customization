@@ -1,0 +1,12 @@
+.summary-card {
+  padding: 25px;
+}
+
+.car-photo {
+  padding: 30px;
+  background-color: #fff;
+}
+
+.card-body {
+  padding: 16px 0 !important;
+}
